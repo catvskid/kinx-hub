@@ -1,7 +1,7 @@
 ‏‏‎ ‎games:
 
-‏‏‎ ‎‏UNIVERSAL
-‏‏‎ ‎‏TOWER OF HELL
+‏‏UNIVERSAL
+‏‏TOWER OF HELL
 ‏‏‎ ‎‏ARSENAL
 ‏‏‎ ‎‏LEGENDS OF SPEED
 ‏‏‎ ‎‏BEE SWARM SIM
